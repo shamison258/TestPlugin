@@ -1,0 +1,7 @@
+name: DEMO
+version: 1.0
+main: com.shamison.Main
+commands:
+  demo:
+    description: This is a demo command.
+    usage: /<command>
